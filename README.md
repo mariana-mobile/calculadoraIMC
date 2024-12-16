@@ -1,5 +1,5 @@
 # Calculadora IMC
-Este projeto é um aplicativo nativo desenvolvido com a linguagem de programação Kotlin. O principal objetivo deste projeto foi de criar um aplicativo para cálcular o IMC do usuário na primeira tela e mostrar o resultado na tela seguinte.
+Este projeto é um aplicativo nativo desenvolvido com a linguagem de programação Kotlin. O principal objetivo deste projeto foi de criar um aplicativo para realizar o cálculo do IMC do usuário na primeira tela e mostrar o resultado na tela seguinte.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
