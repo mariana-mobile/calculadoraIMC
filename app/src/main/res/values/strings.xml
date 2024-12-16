@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">calculadoraimc</string>
+    <string name="digite_seu_peso_ex_70_800">Digite seu peso. ex: 70.800</string>
+    <string name="digite_a_sua_altura_ex_1_70">Digite a sua altura. ex 1.70</string>
 </resources>
