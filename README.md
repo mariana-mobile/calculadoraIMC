@@ -3,7 +3,7 @@ Este projeto é um aplicativo nativo desenvolvido com a linguagem de programaç�
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/b19d738b-4d84-4d9d-82c8-460be1fb5c1c" width=260/><image src="https://github.com/user-attachments/assets/75f28734-5522-4797-9f80-bc68fe299be0" width=260/>
+<img src="https://github.com/user-attachments/assets/b19d738b-4d84-4d9d-82c8-460be1fb5c1c" width=200/><image src="https://github.com/user-attachments/assets/75f28734-5522-4797-9f80-bc68fe299be0" width=200/>
 
 ## Tecnologias
 - Activity
